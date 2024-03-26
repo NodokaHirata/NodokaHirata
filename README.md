@@ -1,7 +1,8 @@
-### Konnichiwa World! :octocat:
+**Konnichiwa World! :octocat:**
+---
 **I'm Nodoka, currently learning at HyperionDev to deepen my skills as a software developer 💻 :sparkles:**
 
-**ABOUT ME**
+**Abount me**
 ---
 From Japan 🇯🇵 moved to the UK 🇬🇧 in Dec 2023.  
 Worked at Transcosmos Inc. as a software developer in back-end (Apr 2020 - Dec 2023) in Japan.  
@@ -9,21 +10,54 @@ Seeking a job in tech to leverage my skills whlist working on my study at Hyperi
 
 **Skills**
 ---
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Profile Picture" width="48" height="48">
+<div style="display: inline-block;">
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/2752551/30405069-a7751fee-989e-11e7-9a58-f93f8e820bd1.png" alt="Serverless" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="48" height="48">
+</div>
+
+**Learnig**
+---
+<div style="display: inline-block;">
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="48" height="48">
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node" width="48" height="48">
+</div>
 
 
-Here are some ideas to get you started:
+**Experience**
+---
+- Designed and developed a serverless Slack app for communication and task management purposes.
+- Developed a hybrid mobile application(iOS/Android) for property searching, for the nation's leading housing company.
+- Upgraded Node.js 14 to 18 for both business and user applications, for one of the leading life insurance companies in Japan. Enhanced the performance and security of the software.
+- Executed a website renewal for property searching for a housing company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Certification**
+---
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="AWS Cloud Practitioner" width="150" height="150">
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+**I love..**
+---
+- Travelling ✈️
+- Skiing ⛷️
+- Hiking 🗻
+- Baking 🍞
+
+**Reach me**
+---
+<a href="https://www.linkedin.com/in/nodoka-matthews/">
+  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-256.png" alt="Linkedin" width="48" height="48">
+</a>
+<a href="nodokahiratamatthews@gmail.com">
+  <img src="![icons8-linkedin-50](https://github.com/NodokaHirata/NodokaHirata/assets/101855937/f68ab4bd-f866-49c7-9b46-d8aad9257777)
+" alt="gmail" width="48" height="48">
+</a>
