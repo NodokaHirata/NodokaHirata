@@ -5,7 +5,7 @@ I'm Nodoka, currently learning at HyperionDev to deepen my skills as a software 
 **About me**
 ---
 From Japan 🇯🇵 moved to the UK 🇬🇧 in Dec 2023.  
-Worked at Transcosmos Inc. as a software developer in back-end (Apr 2020 - Dec 2023) in Japan.  
+Worked at Transcosmos Inc. in japan as a software developer in back-end (Apr 2020 - Dec 2023).    
 Seeking a job in tech to leverage my skills whlist working on my study at HyperionDev.  
 
 **Skills**
