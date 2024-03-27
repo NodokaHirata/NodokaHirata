@@ -1,8 +1,8 @@
 **Konnichiwa World! :octocat:**
 ---
-**I'm Nodoka, currently learning at HyperionDev to deepen my skills as a software developer 💻 :sparkles:**
+I'm Nodoka, currently learning at HyperionDev to deepen my skills as a software developer 💻 :sparkles:
 
-**Abount me**
+**About me**
 ---
 From Japan 🇯🇵 moved to the UK 🇬🇧 in Dec 2023.  
 Worked at Transcosmos Inc. as a software developer in back-end (Apr 2020 - Dec 2023) in Japan.  
