@@ -57,7 +57,7 @@ Seeking a job in tech to leverage my skills whlist working on my study at Hyperi
 <a href="https://www.linkedin.com/in/nodoka-matthews/">
   <img src="https://github.com/NodokaHirata/NodokaHirata/assets/101855937/3c2abb2a-de0b-477e-9adb-5c982e3c6e73" alt="Linkedin" width="48" height="48">
 </a>
-<a href="nodokahiratamatthews@gmail.com">
+<a href="mailto:nodokahiratamatthews@gmail.com">
   <img src="icons8-gmail-新しい-50.png" alt="gmail" width="48" height="48">
 </a>
 
