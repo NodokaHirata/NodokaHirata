@@ -5,8 +5,8 @@ I'm Nodoka, currently learning at HyperionDev to deepen my skills as a software 
 **About me**
 ---
 From Japan 🇯🇵 moved to the UK 🇬🇧 in Dec 2023.  
-Worked at Transcosmos Inc. in japan as a software developer in back-end (Apr 2020 - Dec 2023).    
-Seeking a job in tech to leverage my skills whlist working on my study at HyperionDev.  
+Worked at Transcosmos Inc. in Japan as a software developer in back-end development (Apr 2020 - Dec 2023).    
+Seeking a job in tech to leverage my exsisting skills whlist learning new skills at HyperionDev.  
 
 **Skills**
 ---
@@ -22,7 +22,7 @@ Seeking a job in tech to leverage my skills whlist working on my study at Hyperi
 <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="48" height="48">
 </div>
 
-**Learnig**
+**Learning**
 ---
 <div style="display: inline-block;">
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="48" height="48">
