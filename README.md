@@ -1,6 +1,6 @@
 **Konnichiwa World! :octocat:**
 ---
-I'm Nodoka, currently learning at HyperionDev to deepen my skills as a software developer 💻 :sparkles:
+I'm Nodoka, currently I'm taking the Skills Bootcamp in Full Stack Web Development at HyperionDev to deepen my skills as a software developer 💻 :sparkles:
 
 **About me**
 ---
